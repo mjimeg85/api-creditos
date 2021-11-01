@@ -8,7 +8,7 @@ Java
 Springboot
 
 Deployment: Heroku:
-https://ada-api-creditos-fdifelice.herokuapp.com/
+https://ada-app-creditos.herokuapp.com/
 
 Base de Datos:
 
